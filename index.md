@@ -1,37 +1,20 @@
-## Welcome to GitHub Pages
+## Welcome to Holy Mary Degree  Collage
 
-You can use the [editor on GitHub](https://github.com/nzsridh/Naruto/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+You can join HMDC to have brigh future in BBA but do not join for B.Sc,if you do then your future is so bright that you can't see any option excepting join BPOs.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Topper in B.Sc Boys 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+When you think of topper in B.sc boys, you hear only one name Prasad!,  Prasad!,  Prasad! and  Prasad!.
+Prasad is brilient boy and is known as PBC and Desi Prasad.
 
-```markdown
-Syntax highlighted code block
+### B.Sc Friends
 
-# Header 1
-## Header 2
-### Header 3
+Prasad, Sridhar, Giri, Ganesh,Nanadep, Peashant, Nicolai....ect.
 
-- Bulleted
-- List
+### Feedback on HMDC
+-Shit
+-Crap
+-Worst
+-Best for time pass
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nzsridh/Naruto/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
