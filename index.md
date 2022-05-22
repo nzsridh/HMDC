@@ -1,6 +1,6 @@
 ## Welcome to Holy Mary Degree  Collage
 
-You can join HMDC to have brigh future in BBA but do not join for B.Sc,if you do then your future is so bright that you can't see any option excepting join BPOs.
+You can join HMDC to have bright future in BBA but do not join for B.Sc,if you do then your future is so bright that you can't see any option except joining BPOs.
 
 
 ### Topper in B.Sc Boys 
@@ -13,8 +13,8 @@ Prasad is brilient boy and is known as PBC and Desi Prasad.
 Prasad, Sridhar, Giri, Ganesh,Nanadep, Peashant, Nicolai....ect.
 
 ### Feedback on HMDC
--Shit
--Crap
--Worst
--Best for time pass
+Shit/Crap/Worst/Best for time pass
+
+### Note : 
+This is only for entertainment but with facts.
 
